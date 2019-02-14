@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.12)  13 FEB 2019 19:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.12)  14 FEB 2019 11:30
 entering extended mode
 **./desarrollo.tex
 (desarrollo.tex
@@ -335,27 +335,50 @@ File: bandas.jpg Graphic file (type jpg)
 <use bandas.jpg>
 Package pdftex.def Info: bandas.jpg  used on input line 24.
 (pdftex.def)             Requested size: 216.23764pt x 196.58356pt.
+<resistencia1.jpg, id=2, 1156.32pt x 476.53032pt>
+File: resistencia1.jpg Graphic file (type jpg)
+<use resistencia1.jpg>
+Package pdftex.def Info: resistencia1.jpg  used on input line 36.
+(pdftex.def)             Requested size: 216.23764pt x 89.10925pt.
+<medicion1.jpg, id=3, 1541.76pt x 2055.68pt>
+File: medicion1.jpg Graphic file (type jpg)
+<use medicion1.jpg>
+Package pdftex.def Info: medicion1.jpg  used on input line 44.
+(pdftex.def)             Requested size: 162.18236pt x 216.21349pt.
 [1
 
 {C:/Users/lupit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./bandas.jp
-g>] (desarrollo.aux
+g> <./resistencia1.jpg> <./medicion1.jpg>]
+<resistencia2.jpg, id=10, 1156.32pt x 461.47406pt>
+File: resistencia2.jpg Graphic file (type jpg)
+<use resistencia2.jpg>
+Package pdftex.def Info: resistencia2.jpg  used on input line 57.
+(pdftex.def)             Requested size: 216.23764pt x 86.2938pt.
+<medicion2.jpg, id=11, 523.9575pt x 552.56438pt>
+File: medicion2.jpg Graphic file (type jpg)
+<use medicion2.jpg>
+Package pdftex.def Info: medicion2.jpg  used on input line 64.
+(pdftex.def)             Requested size: 162.18236pt x 171.0318pt.
+ [2
+
+ <./resistencia2.jpg> <./medicion2.jpg>] (desarrollo.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 3800 strings out of 492946
- 52708 string characters out of 3126266
- 132159 words of memory out of 3000000
- 7648 multiletter control sequences out of 15000+200000
+ 3824 strings out of 492946
+ 53140 string characters out of 3126266
+ 133187 words of memory out of 3000000
+ 7668 multiletter control sequences out of 15000+200000
  4535 words of font info for 17 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,31p,279b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,31p,279b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/lupit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmr12.pfb><C:/Users/lupit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmr17.pfb>
-Output written on desarrollo.pdf (1 page, 77910 bytes).
+Output written on desarrollo.pdf (2 pages, 730536 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
+ 22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
