@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.12)  16 FEB 2019 21:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.12)  18 FEB 2019 19:42
 entering extended mode
 **./document.tex
 (document.tex
@@ -167,6 +167,14 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
+("C:\Users\lupit\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count104
+\float@exts=\toks23
+\float@box=\box29
+\@float@everytoks=\toks24
+\@floatcapt=\box30
+)
 ("C:\Users\lupit\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
 sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
@@ -184,9 +192,9 @@ Package ifvtex Info: VTeX not detected.
 sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count104
-\Gm@cntv=\count105
-\c@Gm@tempcnt=\count106
+\Gm@cnth=\count105
+\Gm@cntv=\count106
+\c@Gm@tempcnt=\count107
 \Gm@bindingoffset=\dimen115
 \Gm@wd@mp=\dimen116
 \Gm@odd@mp=\dimen117
@@ -195,7 +203,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen120
 \Gm@layouthoffset=\dimen121
 \Gm@layoutvoffset=\dimen122
-\Gm@dimlist=\toks23
+\Gm@dimlist=\toks25
 
 ("C:\Users\lupit\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
 cfg")) (document.aux
@@ -204,35 +212,35 @@ LaTeX Info: Redefining \% on input line 6.
 )
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 
 ("C:\Users\lupit\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count107
+\scratchcounter=\count108
 \scratchdimen=\dimen123
-\scratchbox=\box29
-\nofMPsegments=\count108
-\nofMParguments=\count109
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count110
+\scratchbox=\box31
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count111
 \MPscratchDim=\dimen124
-\MPnumerator=\count111
-\makeMPintoPDFobject=\count112
-\everyMPtoPDFconversion=\toks25
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks27
 )
 ("C:\Users\lupit\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
 base.sty"
@@ -324,35 +332,99 @@ G,.JBIG2,.JB2,.eps]
 <LOGO_ITT_2005.png, id=1, 378.66469pt x 343.2825pt>
 File: LOGO_ITT_2005.png Graphic file (type png)
 <use LOGO_ITT_2005.png>
-Package pdftex.def Info: LOGO_ITT_2005.png  used on input line 18.
+Package pdftex.def Info: LOGO_ITT_2005.png  used on input line 19.
 (pdftex.def)             Requested size: 113.81102pt x 103.1741pt.
 <BIOMEDICA_HEADING1-2048x672.png, id=2, 2055.68pt x 674.52pt>
 File: BIOMEDICA_HEADING1-2048x672.png Graphic file (type png)
 <use BIOMEDICA_HEADING1-2048x672.png>
-Package pdftex.def Info: BIOMEDICA_HEADING1-2048x672.png  used on input line 48
+Package pdftex.def Info: BIOMEDICA_HEADING1-2048x672.png  used on input line 49
 .
 (pdftex.def)             Requested size: 216.23764pt x 70.94505pt.
 [1
 
 {C:/Users/lupit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./LOGO_ITT_
-2005.png> <./BIOMEDICA_HEADING1-2048x672.png>] (document.aux
+2005.png> <./BIOMEDICA_HEADING1-2048x672.png>] [1]
+<bandas.jpg, id=16, 463.7325pt x 421.575pt>
+File: bandas.jpg Graphic file (type jpg)
+<use bandas.jpg>
+Package pdftex.def Info: bandas.jpg  used on input line 143.
+(pdftex.def)             Requested size: 216.23764pt x 196.58356pt.
+<resistencia1.jpg, id=17, 1156.32pt x 476.53032pt>
+File: resistencia1.jpg Graphic file (type jpg)
+<use resistencia1.jpg>
+Package pdftex.def Info: resistencia1.jpg  used on input line 155.
+(pdftex.def)             Requested size: 216.23764pt x 89.10925pt.
+<medicion1.jpg, id=18, 1541.76pt x 2055.68pt>
+File: medicion1.jpg Graphic file (type jpg)
+<use medicion1.jpg>
+Package pdftex.def Info: medicion1.jpg  used on input line 163.
+(pdftex.def)             Requested size: 162.18236pt x 216.21349pt.
+ [2 <./bandas.jpg> <./resistencia1.jpg> <./medicion1.jpg>]
+<resistencia2.jpg, id=22, 1156.32pt x 461.47406pt>
+File: resistencia2.jpg Graphic file (type jpg)
+<use resistencia2.jpg>
+Package pdftex.def Info: resistencia2.jpg  used on input line 176.
+(pdftex.def)             Requested size: 216.23764pt x 86.2938pt.
+<medicion2.jpg, id=23, 523.9575pt x 552.56438pt>
+File: medicion2.jpg Graphic file (type jpg)
+<use medicion2.jpg>
+Package pdftex.def Info: medicion2.jpg  used on input line 183.
+(pdftex.def)             Requested size: 162.18236pt x 171.0318pt.
+<resistencia3.jpg, id=24, 542.025pt x 207.02344pt>
+File: resistencia3.jpg Graphic file (type jpg)
+<use resistencia3.jpg>
+Package pdftex.def Info: resistencia3.jpg  used on input line 195.
+(pdftex.def)             Requested size: 216.23764pt x 82.58994pt.
+ [3
+
+ <./resistencia2.jpg> <./medicion2.jpg> <./resistencia3.jpg>]
+<medicion3.jpg, id=28, 542.025pt x 560.0925pt>
+File: medicion3.jpg Graphic file (type jpg)
+<use medicion3.jpg>
+Package pdftex.def Info: medicion3.jpg  used on input line 204.
+(pdftex.def)             Requested size: 162.18236pt x 167.58463pt.
+<resistencia4.jpg, id=29, 542.025pt x 176.15813pt>
+File: resistencia4.jpg Graphic file (type jpg)
+<use resistencia4.jpg>
+Package pdftex.def Info: resistencia4.jpg  used on input line 216.
+(pdftex.def)             Requested size: 216.23764pt x 70.27652pt.
+<medicion4.jpg, id=30, 542.025pt x 636.12656pt>
+File: medicion4.jpg Graphic file (type jpg)
+<use medicion4.jpg>
+Package pdftex.def Info: medicion4.jpg  used on input line 223.
+(pdftex.def)             Requested size: 162.18236pt x 190.3347pt.
+ [4 <./medicion3.jpg> <./resistencia4.jpg> <./medicion4.jpg>]
+<resistencia5.jpg, id=34, 542.025pt x 273.27094pt>
+File: resistencia5.jpg Graphic file (type jpg)
+<use resistencia5.jpg>
+Package pdftex.def Info: resistencia5.jpg  used on input line 236.
+(pdftex.def)             Requested size: 216.23764pt x 109.0187pt.
+<medicion5.jpg, id=35, 414.04688pt x 523.9575pt>
+File: medicion5.jpg Graphic file (type jpg)
+<use medicion5.jpg>
+Package pdftex.def Info: medicion5.jpg  used on input line 243.
+(pdftex.def)             Requested size: 162.18236pt x 205.23804pt.
+
+[5 <./resistencia5.jpg> <./medicion5.jpg>] [6] [7] (document.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 3746 strings out of 492946
- 52102 string characters out of 3126266
- 130792 words of memory out of 3000000
- 7599 multiletter control sequences out of 15000+200000
- 4537 words of font info for 17 fonts, out of 3000000 for 9000
+ 3878 strings out of 492946
+ 54151 string characters out of 3126266
+ 136236 words of memory out of 3000000
+ 7714 multiletter control sequences out of 15000+200000
+ 5143 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,31p,277b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,31p,442b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/lupit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr12.pfb><C:/Users/lupit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr17.pfb>
-Output written on document.pdf (1 page, 470917 bytes).
+s/cm/cmbx10.pfb><C:/Users/lupit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Users/lupit/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lupit/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on document.pdf (8 pages, 1603932 bytes).
 PDF statistics:
- 18 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

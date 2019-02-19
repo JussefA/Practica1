@@ -1,12 +1,12 @@
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.12)  18 FEB 2019 18:58
 entering extended mode
-**./Introduccion.tex
-(Introduccion.tex
+**./conclusion.tex
+(conclusion.tex
 LaTeX2e <2018-12-01>
 ("C:\Users\lupit\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\lupit\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo"
-File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+("C:\Users\lupit\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -198,11 +198,11 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks23
 
 ("C:\Users\lupit\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-cfg")) (Introduccion.aux
+cfg")) (conclusion.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 )
-\openout1 = `Introduccion.aux'.
+\openout1 = `conclusion.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
@@ -306,12 +306,12 @@ G,.JBIG2,.JB2,.eps]
 * \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=50.0pt
+* \marginparwidth=35.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -324,26 +324,24 @@ G,.JBIG2,.JB2,.eps]
 [1
 
 {C:/Users/lupit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(Introduccion.aux
+(conclusion.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 3740 strings out of 492946
- 51885 string characters out of 3126266
- 134783 words of memory out of 3000000
- 7594 multiletter control sequences out of 15000+200000
- 4845 words of font info for 18 fonts, out of 3000000 for 9000
+ 3736 strings out of 492946
+ 51815 string characters out of 3126266
+ 131797 words of memory out of 3000000
+ 7591 multiletter control sequences out of 15000+200000
+ 4237 words of font info for 16 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,4n,31p,340b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,4n,31p,444b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/lupit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmbx10.pfb><C:/Users/lupit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb><C:/Users/lupit/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lupit/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Introduccion.pdf (1 page, 56639 bytes).
+s/cm/cmr12.pfb><C:/Users/lupit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr17.pfb>
+Output written on conclusion.pdf (1 page, 25153 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 14 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
